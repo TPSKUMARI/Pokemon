@@ -1,0 +1,208 @@
+[
+  {
+    "file": "1.1.png",
+    "detected_name": "Meltan",
+    "detected_number": "129/189",
+    "card_id": "swsh3-129",
+    "strong_ocr_used": false,
+    "timing_ms": {
+      "name_ocr": 2550.3,
+      "number_ocr": 2550.3,
+      "strong_ocr": null,
+      "api_search": 2827.5,
+      "detail_api": 353.5,
+      "total": 14140.4
+    },
+    "details": {
+      "name": "Meltan",
+      "hp": 70,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Basic",
+      "rarity": "Common",
+      "set": "Darkness Ablaze",
+      "series": null,
+      "number": "129/189",
+      "illustrator": "HYOGONOSUKE",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": 10,
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Beam",
+          "damage": 20,
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "abilities": [],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat": 1
+    }
+  },
+  {
+    "file": "10.1.png",
+    "detected_name": "Riolu",
+    "detected_number": "090/185",
+    "card_id": "swsh4-90",
+    "strong_ocr_used": false,
+    "timing_ms": {
+      "name_ocr": 1453.3,
+      "number_ocr": 1453.3,
+      "strong_ocr": null,
+      "api_search": 0.0,
+      "detail_api": 0.0,
+      "total": 1453.3
+    },
+    "details": {
+      "name": "Riolu",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "stage": "Basic",
+      "rarity": "Common",
+      "set": "Vivid Voltage",
+      "series": null,
+      "number": "90/185",
+      "illustrator": "ryoma uratsuka",
+      "attacks": [
+        {
+          "name": "Best Punch",
+          "damage": 30,
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "abilities": [],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": [],
+      "retreat": 1
+    }
+  },
+  {
+    "file": "11.1.png",
+    "detected_name": "Bunnelby",
+    "detected_number": "150/189",
+    "card_id": "swsh3-150",
+    "strong_ocr_used": false,
+    "timing_ms": {
+      "name_ocr": 2171.9,
+      "number_ocr": 2171.9,
+      "strong_ocr": null,
+      "api_search": 0.0,
+      "detail_api": 0.0,
+      "total": 8782.3
+    },
+    "details": {
+      "name": "Bunnelby",
+      "hp": 40,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "rarity": "Common",
+      "set": "Darkness Ablaze",
+      "series": null,
+      "number": "150/189",
+      "illustrator": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Mad Party",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "abilities": [],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [],
+      "retreat": 1
+    }
+  },
+  {
+    "file": "12.1.png",
+    "detected_name": "Clefairy",
+    "detected_number": "063/185",
+    "card_id": "swsh4-63",
+    "strong_ocr_used": false,
+    "timing_ms": {
+      "name_ocr": 2632.6,
+      "number_ocr": 2632.6,
+      "strong_ocr": null,
+      "api_search": 0.0,
+      "detail_api": 2489.2,
+      "total": 6356.6
+    },
+    "details": {
+      "name": "Clefairy",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "rarity": "Common",
+      "set": "Vivid Voltage",
+      "series": null,
+      "number": "63/185",
+      "illustrator": "HYOGONOSUKE",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": 10,
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Mini-Metronome",
+          "damage": null,
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "abilities": [],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [],
+      "retreat": 1
+    }
+  }
+]
